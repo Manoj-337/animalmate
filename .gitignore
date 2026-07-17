@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+
+# Node
+node_modules
+
+# React
+dist
+build
+.env
+
+# Java
+target
+*.class
+
+# IntelliJ
+.idea
+
+# VSCode
+.vscode
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# OS
+Thumbs.db
